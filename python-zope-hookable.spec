@@ -1,7 +1,7 @@
 %define pypi_name zope_hookable
 
 Name:		python-zope-hookable
-Version:	8.2
+Version:	8.3
 Release:	1
 Summary:	Zope hookable
 URL:		https://pypi.org/project/zope-hookable/
